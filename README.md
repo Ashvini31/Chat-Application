@@ -4,7 +4,7 @@
 2. Install virtualenv
   -on Ubuntu: $ sudo apt install python-virtualenv
   -on Windows Powershell $ pip install virtualenv
-Create a virtual environment
+3. Create a virtual environment
 on Ubuntu: $ virtualenv env -p python3.6
 on Windows: $ virtualenv env
 Activate the env:
