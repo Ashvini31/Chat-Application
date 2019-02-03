@@ -1,18 +1,9 @@
 # Chat-Application
 
-1. Requirements
-
-   Python 3.6
-   And additional requirements are in requirements.txt and will be installed through the below steps
-
-2. How to get started
-   Download and install python 3.6 and git
-
-
-3. Run
-   Install virtualenv
-on Ubuntu: $ sudo apt install python-virtualenv
-on Windows Powershell $ pip install virtualenv
+1. Download and Install Python 3.6
+2. Install virtualenv
+  -on Ubuntu: $ sudo apt install python-virtualenv
+  -on Windows Powershell $ pip install virtualenv
 Create a virtual environment
 on Ubuntu: $ virtualenv env -p python3.6
 on Windows: $ virtualenv env
