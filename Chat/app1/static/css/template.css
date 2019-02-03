@@ -1,0 +1,69 @@
+#main
+{
+	margin:0 auto;
+	height:auto;
+	width:100%}
+#wrapper
+{
+	float:left;
+	height:auto;
+	width:100%}
+
+#header
+{
+	float:left;
+	height:200px;
+	width:100%;
+	border:1px solid #000;
+	background:url(Photos/images%20(2).jpeg);
+	background-size:100% 100%;}
+
+#menu
+{
+	float:left;
+	height:50px;
+	width:100%;
+	border:1px solid #000;
+	background:#000;}
+
+#middle
+{
+	float:left;
+	min-height:500px;
+	width:100%;
+	border:1px solid #000;}
+#content1
+{
+	float:left;
+	min-height:500px;
+	width:50%;
+	border:1px solid #000;
+	margin:1%;}
+#content2
+{
+	float:left;
+	min-height:500px;
+	width:45%;
+	border:1px solid #000;
+	margin:1%;}
+#footer
+{
+	float:left;
+	min-height:50px;
+	width:100%;
+	border:1px solid #000;}
+
+#u1
+{
+	list-style:none;}
+#u1 #l1
+{
+	float:left;
+	margin-left:40px;}
+#l1 a
+{
+	text-decoration:none;
+	color:#FFF;}
+a:hover
+{
+	background:#900;}

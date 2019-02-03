@@ -1,0 +1,18 @@
+<h1><u>ADMIN REGISTRATION FORM</u></h1>
+
+<form method="post" action="../adminreg/">
+    {% csrf_token %}
+    <p>Name <input type="text" name="T1" /></p>
+    <p>Address <input type="text" name="T2" /></p>
+    <p>Contact<input type="number" name="T3" /></p>
+    <p>Email<input type="email" name="T4" /></p>
+    <p>Password<input type="password" name="T5"/></p>
+    <p><input type="submit" name="B2"/></p>
+</form>
+
+<p>
+    {% if data %}
+    {{ data }}
+    {% endif %}
+
+</p>
