@@ -1,12 +1,12 @@
 # Chat-Application
 
 1. Download and Install Python 3.6
-2. Install virtualenv
-  -on Ubuntu: $ sudo apt install python-virtualenv
-  -on Windows Powershell $ pip install virtualenv
+2. Install virtualenv 
+  1. on Ubuntu: $ sudo apt install python-virtualenv
+  2. on Windows: >pip install virtualenv
 3. Create a virtual environment
-on Ubuntu: $ virtualenv env -p python3.6
-on Windows: $ virtualenv env
+   on Ubuntu: $ virtualenv env -p python3.6
+   on Windows: $ virtualenv env
 Activate the env:
 on Ubuntu: $ source env/bin/activate
 on Windows: $ ./env/scripts/activate
