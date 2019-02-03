@@ -6,7 +6,7 @@
 4.  Make migrations $ python manage.py makemigrations
 5.  Migrate the changes to the database $ python manage.py migrate
 6.  Run the server $ python manage.py runserver
-7.  Copy the port address to browser and write /admin after it to oopen the database.
+7.  Copy the port address to browser and write /admin after it to open the database.
 8.  Write /login after port address to login.
 9.  Write /userreg after port address to register as user.
 10. Write /adminreg after port address to register as new admin.
